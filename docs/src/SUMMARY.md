@@ -6,4 +6,5 @@
 - [Platform](./features.md)
     - [Challenges](./platform/challenges.md)
     - [Website Pages](./platform/pages.md)
+    - [Events](./events.md)
 - [FAQ](./faq.md)
